@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## 1. Binary Tree Traversal (40 Poin)
 
-![[Pasted image 20241104121312.png]]
+![Foto Hilang](Pastedimage20241104121312.png)
 
 Buatlah tree tersebut dalam program C, lalu lakukan traversal untuk menampilkan seluruh elemen dari tree.
 ### Video: Jelaskan kode yang telah anda buat. Jelaskan cara kerja metode traversal yang anda gunakan!
@@ -51,8 +51,8 @@ Untuk menyelesaikan masalah tersebut, buatlah suatu program antrian dalam data s
 - C. Keluar program : Mengakhiri program (klinik tutup) Contoh program (tampilan input dan output dibebaskan): Ketika pasien datang, dan masuk ke dalam antrian nomor urut 3
 
 Contoh :
-![[Pasted image 20241104121909.png]]
-![[Pasted image 20241104121921.png]]
+![Foto Hilang](Pastedimage20241104121909.png)
+![Foto Hilang](Pastedimage20241104121921.png)
 ### Video: Jelaskan alur program yang dibuat. Bagaimana peran FIFO dari queue diterapkan dalam program? Apakah anda menerapkan program menggunakan array atau linked list? Dapatkah keduanya digunakan dalam kasus ini?
 
 
